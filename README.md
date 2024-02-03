@@ -1,2 +1,2 @@
 # trial
-author - Dhruv Divecha
+Author - Dhruv Divecha
